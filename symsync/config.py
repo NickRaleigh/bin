@@ -34,5 +34,15 @@ SYMSYNC_SETTINGS = [
         "name": "config",
         "source": "/home/nick/dotfiles/ssh/",
         "target": "/home/nick/ssh/"
+    },
+    {
+        "name": "rc.conf",
+        "source": "/home/nick/dotfiles/ranger/",
+        "target": "/home/nick/.config/ranger/"
+    },
+    {
+        "name": "rifle.conf",
+        "source": "/home/nick/dotfiles/ranger/",
+        "target": "/home/nick/.config/ranger/"
     }
 ]
