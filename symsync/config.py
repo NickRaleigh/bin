@@ -44,5 +44,32 @@ SYMSYNC_SETTINGS = [
         "name": "rifle.conf",
         "source": "/home/nick/dotfiles/ranger/",
         "target": "/home/nick/.config/ranger/"
-    }
+    },
+    # NewsBoat
+    {
+        "name": "urls",
+        "source": "/home/nick/dotfiles/newsboat/",
+        "target": "/home/nick/.newsboat/"
+    },
+    {
+        "name": "config",
+        "source": "/home/nick/dotfiles/newsboat/",
+        "target": "/home/nick/.newsboat/"
+    },
+    # Emacs
+    {
+        "name": "config.el",
+        "source": "/home/nick/dotfiles/.doom.d/",
+        "target": "/home/nick/.doom.d/"
+    },
+    {
+        "name": "init.el",
+        "source": "/home/nick/dotfiles/.doom.d/",
+        "target": "/home/nick/.doom.d/"
+    },
+    {
+        "name": "packages.el",
+        "source": "/home/nick/dotfiles/.doom.d/",
+        "target": "/home/nick/.doom.d/"
+    },
 ]
